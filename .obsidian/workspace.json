@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "1c445ffa9f9c91b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d42f3ffb9c0aacda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab75c94701be9546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minggu_1_persiapan_dan_instalasi/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d0d4d42cc8bad7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8350df0804c0dcb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afcd50599d0f74d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5d91f424dbb52b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bed2f11b1c3ad0f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99c1de912b9d3ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1aa8080ef1e3235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67048ceb4b0f2693",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "minggu_1_persiapan_dan_instalasi/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a18e0fd4edd8f8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "minggu_1_persiapan_dan_instalasi/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ab2bb72a0e1f871",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31ca21568bf34084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "minggu_1_persiapan_dan_instalasi/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab75c94701be9546",
+  "lastOpenFiles": []
+}

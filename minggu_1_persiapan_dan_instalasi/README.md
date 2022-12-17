@@ -21,4 +21,4 @@ Di minggu ini kita akan melakukan persiapan sebelum memulai course ini:
 	- Menggunakan `pgcli` untuk berhubungan dengan database
 	- Explorasi data NY Taxi dataset
 	- Memasukan data ke dalam database
-- 
+- Menghubungkan pgAdmin dan Postgres
